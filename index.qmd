@@ -1,0 +1,19 @@
+---
+title: "Machine Learning para la educación"
+listing:
+  id: sample-listings
+  contents: posts
+  sort: "date desc"
+  type: table
+---
+
+You can review the following documents for additional information:
+
+::: {#sample-listings}
+:::
+
+Learn more about Quarto [here](https://www.quarto.com).
+
+##### [Árboles de Decisión, Random Forest y XGBoost](DecisionsTree_RandomForest_XGBoost.qmd)
+Ejemplo simple de como usar Julia, R y python para investigación operativa
+
