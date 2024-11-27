@@ -14,6 +14,6 @@ You can review the following documents for additional information:
 
 Learn more about Quarto [here](https://www.quarto.com).
 
-##### [Árboles de Decisión, Random Forest y XGBoost](DecisionsTree_RandomForest_XGBoost.qmd)
+##### [Árboles de Decisión, Random Forest y XGBoost](tree/DecisionsTree_RandomForest_XGBoost.html)
 Ejemplo simple de como usar Julia, R y python para investigación operativa
 
